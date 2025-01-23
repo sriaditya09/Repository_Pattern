@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\model\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\model\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\model\\entity\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\model\\entity\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\model\\entity\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\model\\entity\\productdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120093816_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository_Pattern\\Migrations\\20250120093816_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120093428_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository_Pattern\\Migrations\\20250120093428_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120070418_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository_Pattern\\Migrations\\20250120070418_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\repository_pattern.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\repository_pattern.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|c:\\users\\hp\\source\\repos\\repository_pattern\\repository_pattern\\migrations\\20250120095020_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7133B042-911D-4A7E-9BB5-8C11F5AC6C8F}|Repository_Pattern\\Repository_Pattern.csproj|solutionrelative:repository_pattern\\migrations\\20250120095020_update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 124,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Model\\Entity\\Brand.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Model\\Entity\\Brand.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Model\\Entity\\Brand.cs",
+              "RelativeToolTip": "Repository_Pattern\\Model\\Entity\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:00:50.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Model\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Model\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Model\\Entity\\Product.cs",
+              "RelativeToolTip": "Repository_Pattern\\Model\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:57:51.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "productDetails.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Model\\Entity\\productDetails.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Model\\Entity\\productDetails.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Model\\Entity\\productDetails.cs",
+              "RelativeToolTip": "Repository_Pattern\\Model\\Entity\\productDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:20:03.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository_Pattern\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:49:28.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "Repository_Pattern\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:49:17.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Program.cs",
+              "RelativeToolTip": "Repository_Pattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:00:23.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\appsettings.json",
+              "RelativeDocumentMoniker": "Repository_Pattern\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\appsettings.json",
+              "RelativeToolTip": "Repository_Pattern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T06:26:34.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Repository_Pattern\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:30:50.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Repository_Pattern\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\appsettings.Development.json",
+              "RelativeToolTip": "Repository_Pattern\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T07:00:20.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250120095020_update2.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120095020_update2.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Migrations\\20250120095020_update2.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120095020_update2.cs",
+              "RelativeToolTip": "Repository_Pattern\\Migrations\\20250120095020_update2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:50:20.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250120093816_update2.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120093816_update2.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Migrations\\20250120093816_update2.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120093816_update2.cs",
+              "RelativeToolTip": "Repository_Pattern\\Migrations\\20250120093816_update2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:38:16.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250120093428_update1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120093428_update1.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Migrations\\20250120093428_update1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120093428_update1.cs",
+              "RelativeToolTip": "Repository_Pattern\\Migrations\\20250120093428_update1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T09:34:28.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Interface\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Interface\\IProductRepository.cs",
+              "RelativeToolTip": "Repository_Pattern\\Interface\\IProductRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:49:21.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250120070418_update.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120070418_update.cs",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Migrations\\20250120070418_update.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Migrations\\20250120070418_update.cs",
+              "RelativeToolTip": "Repository_Pattern\\Migrations\\20250120070418_update.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:04:18.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository_Pattern.http",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Repository_Pattern.http",
+              "RelativeDocumentMoniker": "Repository_Pattern\\Repository_Pattern.http",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Repository_Pattern\\Repository_Pattern\\Repository_Pattern.http",
+              "RelativeToolTip": "Repository_Pattern\\Repository_Pattern.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-20T07:00:48.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
